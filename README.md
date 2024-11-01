@@ -1,8 +1,8 @@
 Pull \
 Work \
 Cntrl S \
-Add filname \
+Add (no dot!) \
 Commit \
 Pull \
 (potential merge/conflict resolution) \
-Push \
+Push 
