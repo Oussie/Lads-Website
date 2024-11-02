@@ -1,7 +1,8 @@
-Pull
-Work
-Cntrl S
-Commit
-Pull
-(potential merge/conflict resolution)
-Push
+Pull \
+Work \
+Cntrl S \
+Add (no dot!) \
+Commit \
+Pull \
+(potential merge/conflict resolution) \
+Push 
