@@ -1,11 +1,21 @@
+.CustomBorder{
+    position: absolute;
+
+    top: 0;
+    left: 0;
+    width: 99.4%;
+    height: 7%;
+    background-color: #303434;
+    z-index: -1;
+}
+
 header{
     margin: auto;
     width: 50%;
-    border: 5px solid green;
     padding: 1px;
-
+    line-height: 0;
     text-align: center;
-    -webkit-text-stroke: green;
+    -webkit-text-stroke: black;
     -webkit-text-stroke-width: 1px;
 
     color: whitesmoke;
@@ -14,7 +24,7 @@ header{
 #home{
     position: absolute;
     left: 0;
-    top: 0;
+    top: 1;
 }
 
 #SNES{
@@ -45,15 +55,17 @@ header{
 
 
 section{
+
     margin: left;
     color: white;
     width: 50%;
-    padding: 5px;
+    padding: 10px;
 }
 
 .HeadingStroke{
     -webkit-text-stroke: grey 1px;
 }
+
 
 
 body{
