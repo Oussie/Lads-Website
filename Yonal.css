@@ -1,0 +1,19 @@
+        body {background-color: rgb(0, 255, 94);}
+        h1   {color: rgb(0, 0, 0);}
+        p    {color: rgb(0, 0, 0);}
+        h1 {
+        text-align: center;
+         }
+        .Elephant {
+                 
+                        position: absolute;
+                        right: 0px;
+                        width: 300px;
+                        border: 3px none #73AD21;
+                        padding: 10px;
+                             
+                }
+        
+
+
+        
